@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #f8fafc; /* 默认浅色背景 */
+  -webkit-font-smoothing: antialiased;
+}
